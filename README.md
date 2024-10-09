@@ -1,4 +1,4 @@
-# AIfordisablity
+# AI to Empower Persons with Disabilities Hackathon
 Welcome to the GitHub repository for the "AI-Enabled Disability Assistance: Speak and Sign Assistant" project, developed as part of AI to Empower Persons with Disabilities Hackathon, a four-day bootcamp. This project focuses on empowering individuals with disabilities by leveraging cutting-edge AI technology to bridge communication gaps, providing real-time support for those with speech or hearing impairments.
 
 The system facilitates two-way communication through:
